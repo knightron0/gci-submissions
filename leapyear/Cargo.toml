@@ -1,0 +1,11 @@
+[package]
+name = "leapyear"
+version = "0.1.0"
+authors = ["knightron0 <sarthak.robo@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "leapyear"
+path = "main.rs"
